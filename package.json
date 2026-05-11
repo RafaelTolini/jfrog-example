@@ -1,0 +1,20 @@
+{
+  "name": "jfrog-example",
+  "version": "1.0.0",
+  "description": "Tiny Node.js project showing JFrog Artifactory and Frogbot integration.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "jfrog",
+    "artifactory",
+    "frogbot"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
